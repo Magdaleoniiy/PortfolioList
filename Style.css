@@ -1,0 +1,7 @@
+dt:after {
+    content: ": ";
+}
+
+.definition-element > *{
+    display: inline;
+}
